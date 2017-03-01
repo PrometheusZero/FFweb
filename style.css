@@ -1,0 +1,14 @@
+.statBox {
+	background-color:#26a69a;
+	width:100px;
+	height:100px;
+	margin-right:20px !important;
+	text-align:center;
+	line-height:100px;
+	font-size:72px;
+	font-weight:bold;
+}
+
+.statContainer {
+	display:inline-block;
+}
